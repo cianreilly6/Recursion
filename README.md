@@ -1,1 +1,2 @@
 # Recursion
+The program evaluates a student's attendance record to determine if they pass based on the criteria of not being absent more than once and not being late more than twice consecutively. It uses recursion to traverse the attendance string, updating counters for absences and lates, and checks these against the fail conditions at each step. If the student passes the checks throughout the string, it prints "Pass"; otherwise, it prints "Fail".
